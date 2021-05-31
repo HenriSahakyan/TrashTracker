@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trash Tracker</string>
+    <string name="title_activity_display_map">Trash Tracker</string>
+    <string name="title_activity_create_map">Trash Tracker</string>
+</resources>
